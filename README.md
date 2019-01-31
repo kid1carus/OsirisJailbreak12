@@ -5,6 +5,8 @@ An incomplete iOS 12 Jailbreak. For now it only runs the exploit, gets tfp0, get
 
 Older (4K) devices are not supported for now. 16K devices are A12 is experimental - may not work..
 
+In order to compile this app, you need to add `qilin.o` to the project. This can be downloaded from http://newosxbook.com/QiLin/qilin.o
+
 ### DEVELOPER JAILBREAK! NOT FOR THE GENERAL PUBLIC
 
 ### Demo video:
